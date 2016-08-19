@@ -1,0 +1,11 @@
+* {
+  font-family: monospace;
+}
+
+input {
+  display: block;
+}
+
+.error{
+  color: red;
+}
